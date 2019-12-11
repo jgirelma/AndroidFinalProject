@@ -4,4 +4,4 @@ Firebase Notes App
 
 
 
-![Farmers Market Finder Demo](demo/demo.gif)
+![Farmers Market Finder Demo](demo.webm)
